@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\August\Desktop\100-678-02-00 CIB (3-5-2013 11-06-50 AM)\100-678-02-00 Cell Interconnect Board\100-678-02-00 CIB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=100-678-02-00 cib-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=100-678-02-00 cib-slotholes.txt|LayerPairs=gtl,gbl

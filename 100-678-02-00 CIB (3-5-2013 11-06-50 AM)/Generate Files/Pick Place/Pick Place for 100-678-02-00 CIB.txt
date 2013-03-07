@@ -1,0 +1,31 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+B10        TENERGY_30209_LiFePO4_Cell_-_30MIL_SLOT       1885mil       3425mil       1885mil       3425mil       1885mil   4982.835mil  B         90.00 TENERGY 30209 LiFePO4 Cell
+B11        TENERGY_30209_LiFePO4_Cell_-_30MIL_SLOT       1595mil       3425mil       1595mil       3425mil       1595mil   1867.165mil  B        270.00 TENERGY 30209 LiFePO4 Cell
+B12        TENERGY_30209_LiFePO4_Cell_-_30MIL_SLOT       1305mil       3425mil       1305mil       3425mil       1305mil   4982.835mil  B         90.00 TENERGY 30209 LiFePO4 Cell
+B14        TENERGY_30209_LiFePO4_Cell_-_30MIL_SLOT        725mil       3425mil        725mil       3425mil        725mil   4982.835mil  B         90.00 TENERGY 30209 LiFePO4 Cell
+B16        TENERGY_30209_LiFePO4_Cell_-_30MIL_SLOT        145mil       3425mil        145mil       3425mil        145mil   4982.835mil  B         90.00 TENERGY 30209 LiFePO4 Cell
+P6         CONN_2X25_SKT_TH       3265mil       6150mil       2065mil       6200mil       2065mil       6200mil  T        360.00 Header 25X2    
+P1         CONN_2X15_SKT_TH       2380mil       3145mil       1680mil       3195mil       1680mil       3195mil  T        360.00 Header 15X2    
+RT1        THERM_1812            4420mil       3065mil       4420mil       3065mil       4515mil       3065mil  T        180.00 PTC            
+RT2        THERM_1812            4130mil       3760mil       4130mil       3760mil       4225mil       3760mil  T        180.00 PTC            
+RT3        THERM_1812            3840mil       3000mil       3840mil       3000mil       3935mil       3000mil  T        180.00 PTC            
+RT4        THERM_1812            3550mil       3760mil       3550mil       3760mil       3645mil       3760mil  T        180.00 PTC            
+RT5        THERM_1812            3355mil       2930mil       3355mil       2930mil       3450mil       2930mil  T        180.00 PTC            
+RT6        THERM_1812            2760mil       3775mil       2760mil       3775mil       2855mil       3775mil  T        180.00 PTC            
+RT7        THERM_1812            2545mil       2915mil       2545mil       2915mil       2450mil       2915mil  T        360.00 PTC            
+RT8        THERM_1812            2455mil       3740mil       2455mil       3740mil       2360mil       3740mil  T        360.00 PTC            
+RT9        THERM_1812            2035mil       2915mil       2035mil       2915mil       1940mil       2915mil  T        360.00 PTC            
+RT10       THERM_1812            2070mil       3740mil       2070mil       3740mil       2165mil       3740mil  T        180.00 PTC            
+RT11       THERM_1812            1365mil       2945mil       1365mil       2945mil       1460mil       2945mil  T        180.00 PTC            
+RT12       THERM_1812            1385mil       3755mil       1385mil       3755mil       1480mil       3755mil  T        180.00 PTC            
+RT13       THERM_1812            1000mil       3020mil       1000mil       3020mil       1095mil       3020mil  T        180.00 PTC            
+RT14       THERM_1812             810mil       3780mil        810mil       3780mil        905mil       3780mil  T        180.00 PTC            
+RT15       THERM_1812             510mil       3095mil        510mil       3095mil        605mil       3095mil  T        180.00 PTC            
+RT16       THERM_1812             220mil       3710mil        220mil       3710mil        315mil       3710mil  T        180.00 PTC            
+RT17       THERMISTOR_JT         4060mil       3465mil       4060mil       3465mil       4060mil   3500.433mil  B        270.00 10K            
+RT18       THERMISTOR_JT         3190mil       3475mil       3190mil       3475mil       3190mil   3510.433mil  B        270.00 10K            
+RT19       THERMISTOR_JT         2330mil       3475mil       2330mil       3475mil       2330mil   3510.433mil  B        270.00 10K            
+RT20       THERMISTOR_JT         1460mil       3475mil       1460mil       3475mil       1460mil   3510.433mil  B        270.00 10K            
+RT21       THERMISTOR_JT          580mil       3475mil        580mil       3475mil        580mil   3510.433mil  B        270.00 10K            
+

@@ -1,0 +1,1004 @@
+(edif Design_100_678_02_00_CIB_PcbDoc
+  (edifVersion 2 0 0)
+  (edifLevel 0)
+  (keywordMap
+     (keywordLevel 0)
+  )
+  (status
+    (written
+      (timeStamp 2013 3 5 17 10 42)
+      (program "Altium Designer - EDIF For PCB"
+        (version "1.0.0")
+      )
+      (author "EDIF For PCB")
+    )
+  )
+
+  (library COMPONENT_LIB
+    (edifLevel 0)
+    (technology
+      (numberDefinition
+        (scale  1  1  (unit  distance))
+      )
+    )
+    (cell (rename UNDEFINED "")
+      (cellType GENERIC)
+      (view netListView
+        (viewType NETLIST)
+        (interface
+          (port (rename &1 "1") (direction INOUT))
+        )
+      )
+    )
+    (cell (rename UNDEFINED "")
+      (cellType GENERIC)
+      (view netListView
+        (viewType NETLIST)
+        (interface
+          (port (rename &1 "1")   (direction INOUT))
+          (port (rename &2 "2")   (direction INOUT))
+          (port (rename &3 "3")   (direction INOUT))
+          (port (rename &4 "4")   (direction INOUT))
+          (port (rename &5 "5")   (direction INOUT))
+          (port (rename &6 "6")   (direction INOUT))
+          (port (rename &7 "7")   (direction INOUT))
+          (port (rename &8 "8")   (direction INOUT))
+          (port (rename &9 "9")   (direction INOUT))
+          (port (rename &10 "10") (direction INOUT))
+          (port (rename &11 "11") (direction INOUT))
+          (port (rename &12 "12") (direction INOUT))
+          (port (rename &13 "13") (direction INOUT))
+          (port (rename &14 "14") (direction INOUT))
+          (port (rename &15 "15") (direction INOUT))
+          (port (rename &16 "16") (direction INOUT))
+          (port (rename &17 "17") (direction INOUT))
+          (port (rename &18 "18") (direction INOUT))
+          (port (rename &19 "19") (direction INOUT))
+          (port (rename &20 "20") (direction INOUT))
+          (port (rename &21 "21") (direction INOUT))
+          (port (rename &22 "22") (direction INOUT))
+          (port (rename &23 "23") (direction INOUT))
+          (port (rename &24 "24") (direction INOUT))
+          (port (rename &25 "25") (direction INOUT))
+          (port (rename &26 "26") (direction INOUT))
+          (port (rename &27 "27") (direction INOUT))
+          (port (rename &28 "28") (direction INOUT))
+          (port (rename &29 "29") (direction INOUT))
+          (port (rename &30 "30") (direction INOUT))
+        )
+      )
+    )
+    (cell (rename UNDEFINED "")
+      (cellType GENERIC)
+      (view netListView
+        (viewType NETLIST)
+        (interface
+          (port (rename &1 "1")   (direction INOUT))
+          (port (rename &2 "2")   (direction INOUT))
+          (port (rename &3 "3")   (direction INOUT))
+          (port (rename &4 "4")   (direction INOUT))
+          (port (rename &5 "5")   (direction INOUT))
+          (port (rename &6 "6")   (direction INOUT))
+          (port (rename &7 "7")   (direction INOUT))
+          (port (rename &8 "8")   (direction INOUT))
+          (port (rename &9 "9")   (direction INOUT))
+          (port (rename &10 "10") (direction INOUT))
+          (port (rename &11 "11") (direction INOUT))
+          (port (rename &12 "12") (direction INOUT))
+          (port (rename &13 "13") (direction INOUT))
+          (port (rename &14 "14") (direction INOUT))
+          (port (rename &15 "15") (direction INOUT))
+          (port (rename &16 "16") (direction INOUT))
+          (port (rename &17 "17") (direction INOUT))
+          (port (rename &18 "18") (direction INOUT))
+          (port (rename &19 "19") (direction INOUT))
+          (port (rename &20 "20") (direction INOUT))
+          (port (rename &21 "21") (direction INOUT))
+          (port (rename &22 "22") (direction INOUT))
+          (port (rename &23 "23") (direction INOUT))
+          (port (rename &24 "24") (direction INOUT))
+          (port (rename &25 "25") (direction INOUT))
+          (port (rename &26 "26") (direction INOUT))
+          (port (rename &27 "27") (direction INOUT))
+          (port (rename &28 "28") (direction INOUT))
+          (port (rename &29 "29") (direction INOUT))
+          (port (rename &30 "30") (direction INOUT))
+          (port (rename &31 "31") (direction INOUT))
+          (port (rename &32 "32") (direction INOUT))
+          (port (rename &33 "33") (direction INOUT))
+          (port (rename &34 "34") (direction INOUT))
+          (port (rename &35 "35") (direction INOUT))
+          (port (rename &36 "36") (direction INOUT))
+          (port (rename &37 "37") (direction INOUT))
+          (port (rename &38 "38") (direction INOUT))
+          (port (rename &39 "39") (direction INOUT))
+          (port (rename &40 "40") (direction INOUT))
+          (port (rename &41 "41") (direction INOUT))
+          (port (rename &42 "42") (direction INOUT))
+          (port (rename &43 "43") (direction INOUT))
+          (port (rename &44 "44") (direction INOUT))
+          (port (rename &45 "45") (direction INOUT))
+          (port (rename &46 "46") (direction INOUT))
+          (port (rename &47 "47") (direction INOUT))
+          (port (rename &48 "48") (direction INOUT))
+          (port (rename &49 "49") (direction INOUT))
+          (port (rename &50 "50") (direction INOUT))
+        )
+      )
+    )
+    (cell (rename UNDEFINED "")
+      (cellType GENERIC)
+      (view netListView
+        (viewType NETLIST)
+        (interface
+          (port (rename &1 "1") (direction INOUT))
+          (port (rename &2 "2") (direction INOUT))
+        )
+      )
+    )
+    (cell (rename UNDEFINED "")
+      (cellType GENERIC)
+      (view netListView
+        (viewType NETLIST)
+        (interface
+          (port (rename &1 "1") (direction INOUT))
+          (port (rename &2 "2") (direction INOUT))
+        )
+      )
+    )
+  )
+  (library SHEET_LIB
+    (edifLevel 0)
+    (technology
+      (numberDefinition
+        (scale  1  1  (unit  distance))
+      )
+    )
+    (cell &100_678_02_00_CIB_PcbDoc
+      (cellType generic)
+      (view netListView
+        (viewType netlist)
+        (interface
+        )
+        (contents
+          (Instance B1
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\IAPVDWLF" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B2
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\CVMORCJX" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B3
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\JOUKRPCC" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B4
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\UGOQRNRW" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B5
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\EAQJKWIC" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B6
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\UYJMBVAI" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B7
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\GQLBQXVC" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B8
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\XIBVDEOM" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B9
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\CKTSBYFH" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B10
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B11
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B12
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B13
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "\VSFMFNAP" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B14
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B15
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance B16
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "TENERGY 30209 LiFePO4 Cell" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TENERGY 30209 LiFePO4 Cell - 30MIL SLOT" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance P1
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "Header 15X2" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "CONN 2X15 SKT TH" ))
+            (Property Description (String "CONN, SKT, 2X15P, 0.1" CTRS, TH, 0.435" HEIGHT GOLD" ))
+            (Property UniqueId (String "\QMKAUWRO" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance P2
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "CONN TAB MALE 1/4" PC TH" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TERM, LUG, RING TONGUE, #8-32 W/ PEM" ))
+            (Property Description (String "TERM, LUG, RING TONGUE, W/8-32 PEM" ))
+            (Property UniqueId (String "\IGKWDCEA" ))
+            (Property PhysicalPath (String "CIB-v2" ))
+          )
+          (Instance P3
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "CONN TAB MALE 1/4" PC TH" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "TERM, LUG, RING TONGUE, #8-32 W/ PEM" ))
+            (Property Description (String "TERM, LUG, RING TONGUE, W/8-32 PEM" ))
+            (Property UniqueId (String "$$$" ))
+            (Property PhysicalPath (String "CIB-v2" ))
+          )
+          (Instance P6
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "Header 25X2" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "CONN 2X25 SKT TH" ))
+            (Property Description (String "CONN, SKT, 2X25P, 0.1" CTRS, TH, 0.435" HEIGHT GOLD" ))
+            (Property UniqueId (String "\SSRPRPDC" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT1
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\VHPDUSGF" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT2
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\DQJPUBLK" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT3
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\KMVMRENJ" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT4
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\KYGBGHKS" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT5
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\SIOWYQNB" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT6
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\HKGXLYPP" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT7
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\QVSUWWTJ" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT8
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\VIQPDWYP" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT9
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\DXUQFIDT" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT10
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\PVRSEDHS" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT11
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\LPDLYRNQ" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT12
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\VPABIOFO" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT13
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\JJBQGIJI" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT14
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\WLEEAEUQ" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT15
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\VGTORXIS" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT16
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "PTC" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERM 1812" ))
+            (Property Description (String "PTC 2.00A 8VDC RESETTABLE 1812L" ))
+            (Property UniqueId (String "\VURWACOC" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT17
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "10K" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERMISTOR JT" ))
+            (Property Description (String "THERMISTOR NTC 10K B3435 TF 100MM" ))
+            (Property UniqueId (String "\NHJSJGPF" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT18
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "10K" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERMISTOR JT" ))
+            (Property Description (String "THERMISTOR NTC 10K B3435 TF 100MM" ))
+            (Property UniqueId (String "\BBYJFGWM" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT19
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "10K" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERMISTOR JT" ))
+            (Property Description (String "THERMISTOR NTC 10K B3435 TF 100MM" ))
+            (Property UniqueId (String "\HLHQUQRY" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT20
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "10K" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERMISTOR JT" ))
+            (Property Description (String "THERMISTOR NTC 10K B3435 TF 100MM" ))
+            (Property UniqueId (String "\HLNIDFRI" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Instance RT21
+            (viewRef NetlistView
+              (cellRef UNDEFINED
+                (LibraryRef COMPONENT_LIB)
+              )
+            )
+            (Property Comment (String "10K" ))
+            (Property FootprintDescription (String "" ))
+            (Property Footprint (String "THERMISTOR JT" ))
+            (Property Description (String "THERMISTOR NTC 10K B3435 TF 100MM" ))
+            (Property UniqueId (String "\MRTUNVGU" ))
+            (Property PhysicalPath (String "CELL16" ))
+          )
+          (Net BATT_N
+            (Joined 
+                (PortRef &1 (InstanceRef P3))
+                (PortRef &1 (InstanceRef P6))
+                (PortRef &2 (InstanceRef P6))
+                (PortRef &3 (InstanceRef P6))
+                (PortRef &4 (InstanceRef P6))
+                (PortRef &5 (InstanceRef P6))
+                (PortRef &6 (InstanceRef P6))
+                (PortRef &7 (InstanceRef P6))
+                (PortRef &8 (InstanceRef P6))
+                (PortRef &9 (InstanceRef P6))
+                (PortRef &10 (InstanceRef P6))
+                (PortRef &11 (InstanceRef P6))
+                (PortRef &12 (InstanceRef P6))
+                (PortRef &13 (InstanceRef P6))
+                (PortRef &14 (InstanceRef P6))
+                (PortRef &15 (InstanceRef P6))
+                (PortRef &16 (InstanceRef P6))
+                (PortRef &17 (InstanceRef P6))
+                (PortRef &18 (InstanceRef P6))
+                (PortRef &19 (InstanceRef P6))
+                (PortRef &20 (InstanceRef P6))
+                (PortRef &21 (InstanceRef P6))
+                (PortRef &22 (InstanceRef P6))
+                (PortRef &23 (InstanceRef P6))
+                (PortRef &24 (InstanceRef P6))
+            )
+          )
+          (Net BATT_P
+            (Joined 
+                (PortRef &1 (InstanceRef B16))
+                (PortRef &1 (InstanceRef P2))
+                (PortRef &2 (InstanceRef RT16))
+            )
+          )
+          (Net CELL01MON
+            (Joined 
+                (PortRef &26 (InstanceRef P1))
+                (PortRef &30 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT1))
+            )
+          )
+          (Net CELL01N
+            (Joined 
+                (PortRef &2 (InstanceRef B1))
+                (PortRef &28 (InstanceRef P1))
+                (PortRef &29 (InstanceRef P1))
+                (PortRef &27 (InstanceRef P6))
+                (PortRef &28 (InstanceRef P6))
+                (PortRef &29 (InstanceRef P6))
+                (PortRef &30 (InstanceRef P6))
+                (PortRef &31 (InstanceRef P6))
+                (PortRef &32 (InstanceRef P6))
+                (PortRef &33 (InstanceRef P6))
+                (PortRef &34 (InstanceRef P6))
+                (PortRef &35 (InstanceRef P6))
+                (PortRef &36 (InstanceRef P6))
+                (PortRef &37 (InstanceRef P6))
+                (PortRef &38 (InstanceRef P6))
+                (PortRef &39 (InstanceRef P6))
+                (PortRef &40 (InstanceRef P6))
+                (PortRef &41 (InstanceRef P6))
+                (PortRef &42 (InstanceRef P6))
+                (PortRef &43 (InstanceRef P6))
+                (PortRef &44 (InstanceRef P6))
+                (PortRef &45 (InstanceRef P6))
+                (PortRef &46 (InstanceRef P6))
+                (PortRef &47 (InstanceRef P6))
+                (PortRef &48 (InstanceRef P6))
+                (PortRef &49 (InstanceRef P6))
+                (PortRef &50 (InstanceRef P6))
+            )
+          )
+          (Net CELL01P
+            (Joined 
+                (PortRef &1 (InstanceRef B1))
+                (PortRef &2 (InstanceRef B2))
+                (PortRef &1 (InstanceRef RT1))
+            )
+          )
+          (Net CELL02MON
+            (Joined 
+                (PortRef &27 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT2))
+            )
+          )
+          (Net CELL02P
+            (Joined 
+                (PortRef &1 (InstanceRef B2))
+                (PortRef &2 (InstanceRef B3))
+                (PortRef &1 (InstanceRef RT2))
+            )
+          )
+          (Net CELL03MON
+            (Joined 
+                (PortRef &24 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT3))
+            )
+          )
+          (Net CELL03P
+            (Joined 
+                (PortRef &1 (InstanceRef B3))
+                (PortRef &2 (InstanceRef B4))
+                (PortRef &1 (InstanceRef RT3))
+            )
+          )
+          (Net CELL04MON
+            (Joined 
+                (PortRef &25 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT4))
+            )
+          )
+          (Net CELL04P
+            (Joined 
+                (PortRef &1 (InstanceRef B4))
+                (PortRef &2 (InstanceRef B5))
+                (PortRef &1 (InstanceRef RT4))
+            )
+          )
+          (Net CELL05MON
+            (Joined 
+                (PortRef &22 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT5))
+            )
+          )
+          (Net CELL05P
+            (Joined 
+                (PortRef &1 (InstanceRef B5))
+                (PortRef &2 (InstanceRef B6))
+                (PortRef &1 (InstanceRef RT5))
+            )
+          )
+          (Net CELL06MON
+            (Joined 
+                (PortRef &23 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT6))
+            )
+          )
+          (Net CELL06P
+            (Joined 
+                (PortRef &1 (InstanceRef B6))
+                (PortRef &2 (InstanceRef B7))
+                (PortRef &1 (InstanceRef RT6))
+            )
+          )
+          (Net CELL07MON
+            (Joined 
+                (PortRef &20 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT7))
+            )
+          )
+          (Net CELL07P
+            (Joined 
+                (PortRef &1 (InstanceRef B7))
+                (PortRef &2 (InstanceRef B8))
+                (PortRef &1 (InstanceRef RT7))
+            )
+          )
+          (Net CELL08MON
+            (Joined 
+                (PortRef &21 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT8))
+            )
+          )
+          (Net CELL08P
+            (Joined 
+                (PortRef &1 (InstanceRef B8))
+                (PortRef &2 (InstanceRef B9))
+                (PortRef &1 (InstanceRef RT8))
+            )
+          )
+          (Net CELL09MON
+            (Joined 
+                (PortRef &8 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT9))
+            )
+          )
+          (Net CELL09P
+            (Joined 
+                (PortRef &1 (InstanceRef B9))
+                (PortRef &2 (InstanceRef B10))
+                (PortRef &2 (InstanceRef RT9))
+            )
+          )
+          (Net CELL10MON
+            (Joined 
+                (PortRef &7 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT10))
+            )
+          )
+          (Net CELL10P
+            (Joined 
+                (PortRef &1 (InstanceRef B10))
+                (PortRef &2 (InstanceRef B11))
+                (PortRef &2 (InstanceRef RT10))
+            )
+          )
+          (Net CELL11MON
+            (Joined 
+                (PortRef &6 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT11))
+            )
+          )
+          (Net CELL11P
+            (Joined 
+                (PortRef &1 (InstanceRef B11))
+                (PortRef &2 (InstanceRef B12))
+                (PortRef &2 (InstanceRef RT11))
+            )
+          )
+          (Net CELL12MON
+            (Joined 
+                (PortRef &5 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT12))
+            )
+          )
+          (Net CELL12P
+            (Joined 
+                (PortRef &1 (InstanceRef B12))
+                (PortRef &2 (InstanceRef B13))
+                (PortRef &2 (InstanceRef RT12))
+            )
+          )
+          (Net CELL13MON
+            (Joined 
+                (PortRef &4 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT13))
+            )
+          )
+          (Net CELL13P
+            (Joined 
+                (PortRef &1 (InstanceRef B13))
+                (PortRef &2 (InstanceRef B14))
+                (PortRef &2 (InstanceRef RT13))
+            )
+          )
+          (Net CELL14MON
+            (Joined 
+                (PortRef &3 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT14))
+            )
+          )
+          (Net CELL14P
+            (Joined 
+                (PortRef &1 (InstanceRef B14))
+                (PortRef &2 (InstanceRef B15))
+                (PortRef &2 (InstanceRef RT14))
+            )
+          )
+          (Net CELL15P
+            (Joined 
+                (PortRef &1 (InstanceRef B15))
+                (PortRef &2 (InstanceRef B16))
+                (PortRef &2 (InstanceRef RT15))
+            )
+          )
+          (Net CELL16MON
+            (Joined 
+                (PortRef &1 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT16))
+            )
+          )
+          (Net NetP1_2
+            (Joined 
+                (PortRef &2 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT15))
+            )
+          )
+          (Net THERM_1
+            (Joined 
+                (PortRef &17 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT17))
+            )
+          )
+          (Net THERM_2
+            (Joined 
+                (PortRef &16 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT18))
+            )
+          )
+          (Net THERM_3
+            (Joined 
+                (PortRef &12 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT20))
+            )
+          )
+          (Net THERM_4
+            (Joined 
+                (PortRef &11 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT21))
+            )
+          )
+          (Net THERM_GG
+            (Joined 
+                (PortRef &13 (InstanceRef P1))
+                (PortRef &1 (InstanceRef RT19))
+            )
+          )
+          (Net THERM_RTN
+            (Joined 
+                (PortRef &14 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT17))
+                (PortRef &2 (InstanceRef RT18))
+                (PortRef &2 (InstanceRef RT20))
+                (PortRef &2 (InstanceRef RT21))
+            )
+          )
+          (Net VREF_GG
+            (Joined 
+                (PortRef &15 (InstanceRef P1))
+                (PortRef &2 (InstanceRef RT19))
+            )
+          )
+       )
+     )
+   )
+  )
+  (design Design_100_678_02_00_CIB_PcbDoc
+    (cellRef &100_678_02_00_CIB_PcbDoc
+      (libraryRef SHEET_LIB)
+    )
+  )
+)

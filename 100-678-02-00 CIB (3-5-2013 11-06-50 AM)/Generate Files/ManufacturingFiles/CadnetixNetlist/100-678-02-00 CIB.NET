@@ -1,0 +1,129 @@
+PARTS LIST
+
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB1
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB2
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB3
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB4
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB5
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB6
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB7
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB8
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB9
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB10
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB11
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB12
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB13
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB14
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB15
+TENERGY 30209 LiFePO4 CellTENERGY 30209 LiFePO4 Cell - 30MIL SLOTB16
+Header 15X2       CONN 2X15 SKT THP1
+CONN TAB MALE 1/4" PC THTERM, LUG, RING TONGUE, #8-32 W/ PEMP2
+CONN TAB MALE 1/4" PC THTERM, LUG, RING TONGUE, #8-32 W/ PEMP3
+Header 25X2       CONN 2X25 SKT THP6
+PTC               THERM 1812      RT1
+PTC               THERM 1812      RT2
+PTC               THERM 1812      RT3
+PTC               THERM 1812      RT4
+PTC               THERM 1812      RT5
+PTC               THERM 1812      RT6
+PTC               THERM 1812      RT7
+PTC               THERM 1812      RT8
+PTC               THERM 1812      RT9
+PTC               THERM 1812      RT10
+PTC               THERM 1812      RT11
+PTC               THERM 1812      RT12
+PTC               THERM 1812      RT13
+PTC               THERM 1812      RT14
+PTC               THERM 1812      RT15
+PTC               THERM 1812      RT16
+10K               THERMISTOR JT   RT17
+10K               THERMISTOR JT   RT18
+10K               THERMISTOR JT   RT19
+10K               THERMISTOR JT   RT20
+10K               THERMISTOR JT   RT21
+EOS
+NET LIST
+
+NODENAME BATT_N           $
+    P3         1  P6         1  P6         2  P6         3  P6         4  P6         5  P6         6  P6         7  P6         8  P6         9  P6        10  P6        11  P6        12  P6        13  P6        14  P6        15  P6        16  P6        17  P6        18  P6        19  P6        20  P6        21  P6        22  P6        23  P6        24
+NODENAME BATT_P           $
+    B16        1  P2         1  RT16       2
+NODENAME CELL01MON        $
+    P1        26  P1        30  RT1        2
+NODENAME CELL01N          $
+    B1         2  P1        28  P1        29  P6        27  P6        28  P6        29  P6        30  P6        31  P6        32  P6        33  P6        34  P6        35  P6        36  P6        37  P6        38  P6        39  P6        40  P6        41  P6        42  P6        43  P6        44  P6        45  P6        46  P6        47  P6        48  P6        49  P6        50
+NODENAME CELL01P          $
+    B1         1  B2         2  RT1        1
+NODENAME CELL02MON        $
+    P1        27  RT2        2
+NODENAME CELL02P          $
+    B2         1  B3         2  RT2        1
+NODENAME CELL03MON        $
+    P1        24  RT3        2
+NODENAME CELL03P          $
+    B3         1  B4         2  RT3        1
+NODENAME CELL04MON        $
+    P1        25  RT4        2
+NODENAME CELL04P          $
+    B4         1  B5         2  RT4        1
+NODENAME CELL05MON        $
+    P1        22  RT5        2
+NODENAME CELL05P          $
+    B5         1  B6         2  RT5        1
+NODENAME CELL06MON        $
+    P1        23  RT6        2
+NODENAME CELL06P          $
+    B6         1  B7         2  RT6        1
+NODENAME CELL07MON        $
+    P1        20  RT7        2
+NODENAME CELL07P          $
+    B7         1  B8         2  RT7        1
+NODENAME CELL08MON        $
+    P1        21  RT8        2
+NODENAME CELL08P          $
+    B8         1  B9         2  RT8        1
+NODENAME CELL09MON        $
+    P1         8  RT9        1
+NODENAME CELL09P          $
+    B9         1  B10        2  RT9        2
+NODENAME CELL10MON        $
+    P1         7  RT10       1
+NODENAME CELL10P          $
+    B10        1  B11        2  RT10       2
+NODENAME CELL11MON        $
+    P1         6  RT11       1
+NODENAME CELL11P          $
+    B11        1  B12        2  RT11       2
+NODENAME CELL12MON        $
+    P1         5  RT12       1
+NODENAME CELL12P          $
+    B12        1  B13        2  RT12       2
+NODENAME CELL13MON        $
+    P1         4  RT13       1
+NODENAME CELL13P          $
+    B13        1  B14        2  RT13       2
+NODENAME CELL14MON        $
+    P1         3  RT14       1
+NODENAME CELL14P          $
+    B14        1  B15        2  RT14       2
+NODENAME CELL15P          $
+    B15        1  B16        2  RT15       2
+NODENAME CELL16MON        $
+    P1         1  RT16       1
+NODENAME NetP1-2          $
+    P1         2  RT15       1
+NODENAME THERM-1          $
+    P1        17  RT17       1
+NODENAME THERM-2          $
+    P1        16  RT18       1
+NODENAME THERM-3          $
+    P1        12  RT20       1
+NODENAME THERM-4          $
+    P1        11  RT21       1
+NODENAME THERM_GG         $
+    P1        13  RT19       1
+NODENAME THERM_RTN        $
+    P1        14  RT17       2  RT18       2  RT20       2  RT21       2
+NODENAME VREF_GG          $
+    P1        15  RT19       2
+EOS

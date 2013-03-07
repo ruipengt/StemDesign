@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=B1 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B2 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B3 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B4 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B5 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B6 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B7 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B8 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B9 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B13 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Component Footprint: Designator=B15 Old Footprint=TENERGY 30209 LiFePO4 Cell - 30MIL SLOT New Footprint=TENERGY 30209 LiFePO4 Cell
+Change Physical Footprint: Designator=P1 Old Footprint=CONN 2X15 SKT TH New Footprint=CONN 2X15 SKT TH
+Change Physical Footprint: Designator=P6 Old Footprint=CONN 2X25 SKT TH New Footprint=CONN 2X25 SKT TH
+Change Physical Footprint: Designator=RT17 Old Footprint=THERMISTOR JT New Footprint=THERMISTOR JT
+Change Physical Footprint: Designator=RT18 Old Footprint=THERMISTOR JT New Footprint=THERMISTOR JT
+Change Physical Footprint: Designator=RT19 Old Footprint=THERMISTOR JT New Footprint=THERMISTOR JT
+Change Physical Footprint: Designator=RT20 Old Footprint=THERMISTOR JT New Footprint=THERMISTOR JT
+Change Physical Footprint: Designator=RT21 Old Footprint=THERMISTOR JT New Footprint=THERMISTOR JT

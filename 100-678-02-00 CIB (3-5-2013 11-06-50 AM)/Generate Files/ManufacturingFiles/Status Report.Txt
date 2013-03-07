@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:34:20 PM On 3/5/2013
+
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [100-678-02-00 CIB.PcbDoc]
+   Generated File[Fabrication Testpoint Report for 100-678-02-00 CIB.txt]
+   Generated File[Fabrication Testpoint Report for 100-678-02-00 CIB.csv]
+   Generated File[Fabrication Testpoint Report for 100-678-02-00 CIB.ipc]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:34:20 PM On 3/5/2013

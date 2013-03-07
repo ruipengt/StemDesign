@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 100-678-02-00 CIB.PcbDoc   3/5/2013  11:29:14 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 100-678-02-00 CIB-RoundHoles.TXT
+ASCII SlotHoles File : 100-678-02-00 CIB-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          1                0.00 Inch (0.00 mm)
+T2        30mil (0.762mm)          Round          10               3.83 Inch (97.39 mm)
+T3        30mil (0.762mm)          Slot           32               301.68 Inch (7662.74 mm)
+T4        37.5mil (0.9525mm)       Round          78               12.11 Inch (307.52 mm)
+T5        250mil (6.35mm)          Round          2                1.08 Inch (27.31 mm)
+T6        37.5mil (0.9525mm)       Round          2         NPTH   0.10 Inch (2.54 mm)
+T7        67.5mil (1.7145mm)       Slot           48        NPTH   308.00 Inch (7823.16 mm)
+T8        135mil (3.429mm)         Round          5         NPTH   15.62 Inch (396.83 mm)
+---------------------------------------------------------------------------
+Totals                                            178              642.42 Inch (16317.50 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
